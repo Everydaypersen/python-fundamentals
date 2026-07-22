@@ -1,39 +1,90 @@
-# Python Fundamentals
+# 🐍 Python Fundamentals
 
-This repository documents my journey in learning Python fundamentals.
+> My journey to mastering Python fundamentals as the foundation for becoming an AI Engineer.
 
-## Goal
+---
 
-Build a strong Python foundation for becoming an AI Engineer.
+# 📖 About
 
-## Topics Learned
+This repository documents my journey of learning Python from scratch using **Python Crash Course (3rd Edition)**.
 
+The goal is not only to learn Python syntax, but also to develop problem-solving skills, software engineering thinking, and build a strong foundation before diving into Artificial Intelligence and Machine Learning.
+
+---
+
+# 🎯 Learning Goal
+
+- Build a strong Python foundation.
+- Think like a Software Engineer.
+- Learn by building projects.
+- Prepare for AI Engineering.
+
+# 📚 Topics Learned
+
+## ✅ Chapter 1
+- Getting Started
+
+## ✅ Chapter 2
 - Variables
-- Input & Output
 - Strings
-- Functions
-- Return Values
-- Scope
-- Type Conversion
+- Numbers
+- Comments
 - f-Strings
+- Type Conversion
 
-## Mini Projects
+## ✅ Chapter 3
+- Lists
+- Indexing
+- append()
+- insert()
+- remove()
+- pop()
+- del
+- sort()
+- sorted()
+- reverse()
+- len()
 
-- Student Profile
-- BMI Calculator
-- Greeting Function
-- Simple Addition Function
-- Personal Profile Generator
+## ✅ Chapter 4
+- For Loops
+- range()
+- Numerical Lists
+- List Comprehension
+- Slice
+- Copy List
+- Tuples
+- PEP 8
 
-## Progress
+# 🚀 Mini Projects
 
-- [x] Lecture 0 Concepts
-- [x] Basic Syntax Practice
-- [x] Mini Challenge
-- [ ] Object-Oriented Programming
-- [ ] File Handling
-- [ ] Modules
+## 🛒 Shopping List Manager
 
-## Author
+A Python mini project that demonstrates:
+
+- List Management
+- For Loops
+- append()
+- del
+- len()
+- Slice
+- Copy List
+- Sorting
+- Reverse List
+
+# 📈 Learning Progress
+
+- [x] Chapter 1
+- [x] Chapter 2
+- [x] Chapter 3
+- [x] Chapter 4
+- [ ] Chapter 5
+- [ ] Functions
+- [ ] Dictionaries
+- [ ] Classes
+- [ ] Files
+
+# 👨‍💻 Author
 
 Muhammad Duffy Adzim
+
+Future AI Engineer 🚀
