@@ -83,6 +83,25 @@ A Python mini project that demonstrates:
 - [ ] Classes
 - [ ] Files
 
+# 📚 Learning Resources
+
+- Python Crash Course (3rd Edition)
+- CS50P
+- ChatGPT (Learning Partner & Code Review)
+
+# 🛠 Tools
+
+- Python
+- VS Code
+- Git
+- GitHub
+
+# 🧠 Learning Philosophy
+
+I believe programming is not about memorizing syntax.
+
+It is about solving problems, thinking like an engineer, and continuously improving through practice and feedback.
+
 # 👨‍💻 Author
 
 Muhammad Duffy Adzim
